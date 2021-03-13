@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 📫 You can react me at:
 <ul> 
   <li><a href="https://www.linkedin.com/in/moksha-sood-91885b18a/"> LinkedIn </a> </li>
-  <li><a href="href="mokshasood06@gmail.com""> Email </a></li>
+  <li><a href="mokshasood06@gmail.com"> Email </a></li>
   <li><a href="https://drive.google.com/file/d/13lXXEDZLN2A2c_rI8Caa_FOoWsOZXyUn/view?usp=sharing"> Resume </a> </li>
 </ul>

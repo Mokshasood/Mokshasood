@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I am Moksha Sood, junior undergraduate in ECE at NIT, Surat.
+😄 I am Moksha Sood, Software Engineer at Microsoft.
 <br>
 🔭 I am an ML enthusiast and web developer.
 <br><br>
 # Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokshasood)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-📫 You can react me at:
+📫 You can reach me at:
 <ul> 
   <li><a href="https://www.linkedin.com/in/moksha-sood-91885b18a/"> LinkedIn </a> </li>
   <li><a href="mailto:mokshasood06@gmail.com"> Email </a></li>
